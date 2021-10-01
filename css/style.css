@@ -160,6 +160,7 @@
     position: absolute;
     left: 23px;
     width: 17.5px;
+    height: 17.5px;
     padding: 0px;
     border: none;
     background-color: white;
@@ -366,6 +367,7 @@
     position: absolute;
     left: 6.1333333333vw;
     width: 4.6666666667vw;
+    height: 4.6666666667vw;
     padding: 0px;
     border: none;
     background-color: white;
@@ -620,6 +622,7 @@
     left: 1.6927083333vw;
     top: 1.3020833333vw;
     width: 2.2786458333vw;
+    height: 2.2786458333vw;
     padding: 0px;
     border: none;
     background-color: white;
@@ -897,6 +900,7 @@
     left: 12px;
     top: 10px;
     width: 17.5px;
+    height: 17.5px;
     padding: 0px;
     border: none;
     background-color: white;
